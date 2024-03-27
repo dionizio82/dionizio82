@@ -3,20 +3,20 @@
 ## 🚀 About Me
 I'm a full stack developer.
 
-- 📱 MBA Marketing e Mídias Digitais pela Fundação Getúlio Vargas (2023) - FGV
-- 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas pela AIEC (2021) - AIEC
-- 📊 MBA em Auditoria Integral pela Universidade Federal do Paraná (2007) - UFPR
-- 🔢 Bacharel em Ciências Contábeis pela Universidade Federal do Paraná (2005)- UFPR
+- 📱 MBA in Marketing and Digital Media from Getúlio Vargas Foundation (2023) - FGV
+- 💻 Technologist in Systems Analysis and Development from AIEC (2021) - AIEC
+- 📊 MBA in Comprehensive Audit from the Federal University of Paraná (2007) - UFPR
+- 🔢 Bachelor of Science in Accounting from the Federal University of Paraná (2005) - UFPR
 
-- 🌱 Estudando:
-  - Análise de dados com PANDAS
-  - WebScraping com Puppeteer e Node-fetch
-  - Framework React.js
-  - Framework Next.js
-  - Framework Streamlit
-  - Framework Plotly  
-  - Framework Dash
-
+- 🌱 Currently studying:
+  - Data analysis with Pandas
+  - Web Scraping with Puppeteer and Node-fetch
+  - React.js framework
+  - Next.js framework
+  - Streamlit framework
+  - Plotly framework
+  - Dash framework
+  
 ## Contacts
 
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dionizio82) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionizio82) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dionizio82) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@otavioyoutuber5959) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@heberdionizio.com.br) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5541992555891?text=Oi,%20vi%20seu%20Github%20hoje.%20Podemos%20conversar?) [![site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://heberdionizio.com.br)
