@@ -16,6 +16,9 @@ I'm a full stack developer.
   - Streamlit framework
   - Plotly framework
   - Dash framework
+
+[![Dioniziu's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dionizio82&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dionizio82/github-readme-stats#gh-light-mode-only)
+
   
 ## Contacts
 
@@ -24,6 +27,7 @@ I'm a full stack developer.
 ## Technologies I use in my daily routine
 Applying some, studying others...
 #### Programming Languages
+
 <div style="display: inline_block"></br>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,6 +35,8 @@ Applying some, studying others...
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />    
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1362000&layout=compact&theme=light)](https://github.com/Akash1362000)
 
 #### Frameworks and Libraries
 <div style="display: inline_block"></br>    
