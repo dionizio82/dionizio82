@@ -36,7 +36,7 @@ Applying some, studying others...
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />    
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1362000&layout=compact&theme=light)](https://github.com/Akash1362000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionizio82&layout=compact&theme=light)](https://github.com/dionizio82)
 
 #### Frameworks and Libraries
 <div style="display: inline_block"></br>    
