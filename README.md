@@ -17,7 +17,7 @@ I'm a full stack developer.
   - Plotly framework
   - Dash framework
 
-[![Dioniziu's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dionizio82&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dionizio82/github-readme-stats#gh-light-mode-only)
+[![Dioniziu's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dionizio82&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dionizio82/github-readme-stats#gh-light-mode)
 
   
 ## Contacts
