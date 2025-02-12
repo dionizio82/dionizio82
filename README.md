@@ -13,9 +13,6 @@ I'm a full stack developer.
   - Web Scraping with Puppeteer and Node-fetch
   - React.js framework
   - Next.js framework
-  - Streamlit framework
-  - Plotly framework
-  - Dash framework
 
 [![Dionizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionizio82&show_icons=true&theme=transparent)]
 
