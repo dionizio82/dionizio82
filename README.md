@@ -21,8 +21,8 @@ Em homologação: **DJE Empresas**, monitoramento do Domicílio Judicial Eletrô
 
 ## Como eu trabalho
 
-- **De ponta a ponta, sozinho.** Modelo de dados, API, interface, deploy, backup, cobrança e suporte ao cliente.
-- **IA onde ela resolve.** Extração estruturada de documentos com citações, transcrição de áudio com Whisper e um servidor MCP próprio que dá a agentes acesso aos sistemas com escopo por chave e trilha de auditoria. Claude Code faz parte do meu fluxo de desenvolvimento.
+- **De ponta a ponta.** Modelo de dados, API, interface, deploy, backup, cobrança e suporte ao cliente.
+- **IA onde ela resolve.** Extração estruturada de documentos com citações, transcrição de áudio com Whisper e um servidor MCP próprio que dá a agentes acesso aos sistemas com escopo por chave e trilha de auditoria. Não dependo de uma IA específica, sempre que a conexão é por API utilizo DeepSeek, Google Gemini, OpenAI e Anthropic, sendo o Claude o mais utilizado no dia a dia.
 - **Infraestrutura própria.** 77 containers em 14 stacks Docker Compose, Traefik, Cloudflare Tunnel, acesso administrativo só por Tailscale, SSO, backup cifrado com teste de restauração automatizado e monitoramento.
 - **Regra de negócio na origem.** Sou contador desde 2007. Fui CFO, fundador de escritório de contabilidade e gerente no Banco do Brasil antes de programar.
 
